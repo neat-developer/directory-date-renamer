@@ -7,8 +7,11 @@
     "@angular/cli": "^9.0.4",
     "express": "^4.17.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
   "scripts": {
+    "start": "cd renamer && node node_modules/@angular/cli/bin/ng serve --proxy-config proxy.conf.json && node ../server/core.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
