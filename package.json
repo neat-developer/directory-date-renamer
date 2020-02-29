@@ -1,0 +1,24 @@
+{
+  "name": "directory-date-renamer",
+  "version": "1.0.0",
+  "description": "\"# Directory date renamer\"",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/cli": "^9.0.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neat-developer/directory-date-renamer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neat-developer/directory-date-renamer/issues"
+  },
+  "homepage": "https://github.com/neat-developer/directory-date-renamer#readme"
+}

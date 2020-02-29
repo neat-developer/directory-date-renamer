@@ -1,1 +1,1 @@
-"# Directory date renamer" 
+# Directory date renamer 
